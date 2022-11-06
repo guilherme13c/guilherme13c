@@ -9,7 +9,7 @@
 
 <div>
   <p>
-    Currently, I've been focusing in learning new concepts and technologies such as <strong>reactJS</strong>, <strong>firebase</strong> and other things related to <strong>data science</strong> and <strong>machine learning</strong>.
+    Always studying the basis of computer science!
   </p>
   <p>
     Also, I have some experience working with <strong>Python</strong> and <strong>C/C++</strong>.
